@@ -1,2 +1,3 @@
 # texteditor
-Simple texteditor with basic functions
+Simple java text editor
+
